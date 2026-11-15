@@ -15,6 +15,10 @@ any of it is actually working.
 
 ### Selected work
 
+**[Copilot Detox](https://sanjumsanthosh.github.io/Copilot-Detox/)** — a Bash CLI that generates a Python drill, locks AI out while you solve it, then has Copilot grade the result. One file, no dependencies.
+
+**[Kokoro Reader](https://sanjumsanthosh.github.io/kokoro-reader/)** — an offline macOS reader that narrates Markdown with Kokoro-82M, with every clip cached on disk and nothing leaving the machine.
+
 **[vislab](https://sanjumsanthosh.github.io/work/vislab/)** — browser playground for interactive visual explanations. Edit code, run it sandboxed, probe the result.
 
 **[Agent tooling](https://sanjumsanthosh.github.io/work/agent-tooling/)** — MCP servers, scoped tool access, OAuth 2.0 + PKCE, audit transcripts and human handoff.
